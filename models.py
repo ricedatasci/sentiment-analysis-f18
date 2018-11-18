@@ -1,5 +1,5 @@
 """
-Implement a Naive Bayes SVM
+Implement a Naive Bayes SVM!
 """
 
 from sklearn.base import BaseEstimator, ClassifierMixin
